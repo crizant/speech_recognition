@@ -1,3 +1,5 @@
+This repo is forked from [rxlabz/speech_recognition](https://github.com/rxlabz/speech_recognition) with a little modification to support `zh-HK` and `zh-CN`.
+
 # speech_recognition
 
 A flutter plugin to use the speech recognition iOS10+ / Android 4.1+
